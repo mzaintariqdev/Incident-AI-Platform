@@ -8,6 +8,11 @@ Built to demonstrate: FastAPI, JWT auth + RBAC, webhook signature verification,
 async processing between two services via Redis, an LLM in a real pipeline
 (not just a chatbot), pagination/filtering, WebSockets, and D3/Chart.js.
 
+## Video
+
+[screen-capture (15).webm](https://github.com/user-attachments/assets/61c04b62-7d50-49a9-b5bd-1834cf518a26)
+
+
 ## What this actually does (plain English)
 
 Imagine a support inbox that sorts itself. Here's the story, step by step:
